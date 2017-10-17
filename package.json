@@ -1,0 +1,11 @@
+{
+  "name": "spotify-current-song",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Javier Echenique",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^7.3.0",
+    "request": "^2.83.0"
+  }
+}
